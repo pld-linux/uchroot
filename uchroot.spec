@@ -6,6 +6,7 @@ Release:	1
 License:	GPL
 Group:		Applications/System
 Source0:	ftp://ftp.corpit.ru/pub/avcheck/%{name}.c
+# Source0-md5:	613d0f5c511af145d4f754d749950338
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description

@@ -1,5 +1,5 @@
 Summary:	Run command with special root directory and specified account's uid and gid
-Summary(pl):	Uruchamia polecenie z podanym katalogiem g³ównym, u¿ytkownikiem i grup±
+Summary(pl.UTF-8):   Uruchamia polecenie z podanym katalogiem gÅ‚Ã³wnym, uÅ¼ytkownikiem i grupÄ…
 Name:		uchroot
 Version:	0.010730
 Release:	1
@@ -13,9 +13,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Runs another program under a specified account's uid and gid with root
 directory set to NEWROOT.
 
-%description -l pl
-Uruchamia polecenie lub pow³okê interaktywn± z podanym katalogiem
-g³ównym, u¿ytkownikiem i grup±.
+%description -l pl.UTF-8
+Uruchamia polecenie lub powÅ‚okÄ™ interaktywnÄ… z podanym katalogiem
+gÅ‚Ã³wnym, uÅ¼ytkownikiem i grupÄ….
 
 %prep
 %setup -q -T -c

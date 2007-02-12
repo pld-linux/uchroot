@@ -1,5 +1,5 @@
 Summary:	Run command with special root directory and specified account's uid and gid
-Summary(pl.UTF-8):   Uruchamia polecenie z podanym katalogiem głównym, użytkownikiem i grupą
+Summary(pl.UTF-8):	Uruchamia polecenie z podanym katalogiem głównym, użytkownikiem i grupą
 Name:		uchroot
 Version:	0.010730
 Release:	1
